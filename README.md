@@ -1,6 +1,6 @@
 # Samachara - App
 
-A News App In Your Language.
+A News App In Your Language .
 
 ## Getting Started
 
