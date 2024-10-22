@@ -1,6 +1,6 @@
-# smachara_app
+# Samachara - App
 
-A new Flutter project.
+A News App In Your Language.
 
 ## Getting Started
 
